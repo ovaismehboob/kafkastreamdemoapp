@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|c:\\engagements\\zand\\poc\\producer\\dotnet\\eventhubsforkafkasample\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|solutionrelative:eventhubsforkafkasample\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|c:\\engagements\\zand\\poc\\producer\\dotnet\\eventhubsforkafkasample\\cacert.pem||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|solutionrelative:eventhubsforkafkasample\\cacert.pem||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|c:\\engagements\\zand\\poc\\producer\\dotnet\\eventhubsforkafkasample\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|solutionrelative:eventhubsforkafkasample\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|c:\\engagements\\zand\\poc\\producer\\dotnet\\eventhubsforkafkasample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF2C55D-5EBF-4593-BBCB-44DFE8B3F2AE}|EventHubsForKafkaSample\\EventHubsForKafkaSample.csproj|solutionrelative:eventhubsforkafkasample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\Worker.cs",
+              "RelativeDocumentMoniker": "EventHubsForKafkaSample\\Worker.cs",
+              "ToolTip": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\Worker.cs",
+              "RelativeToolTip": "EventHubsForKafkaSample\\Worker.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:58:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cacert.pem",
+              "DocumentMoniker": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\cacert.pem",
+              "RelativeDocumentMoniker": "EventHubsForKafkaSample\\cacert.pem",
+              "ToolTip": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\cacert.pem",
+              "RelativeToolTip": "EventHubsForKafkaSample\\cacert.pem",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T06:58:45.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\App.config",
+              "RelativeDocumentMoniker": "EventHubsForKafkaSample\\App.config",
+              "ToolTip": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\App.config",
+              "RelativeToolTip": "EventHubsForKafkaSample\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-28T06:58:16.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\Program.cs",
+              "RelativeDocumentMoniker": "EventHubsForKafkaSample\\Program.cs",
+              "ToolTip": "C:\\Engagements\\Zand\\POC\\producer\\dotnet\\EventHubsForKafkaSample\\Program.cs",
+              "RelativeToolTip": "EventHubsForKafkaSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:58:09.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
